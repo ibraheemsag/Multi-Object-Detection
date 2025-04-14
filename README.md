@@ -8,7 +8,7 @@ A demonstration of real-time multi-object tracking using a fine-tuned YOLOv8n mo
 
 [![Watch the demo](http://img.youtube.com/vi/cZ2PNm11u0A/0.jpg)](https://youtu.be/cZ2PNm11u0A)
 
-> Click the thumbnail to view the video on YouTube.
+Click the thumbnail to view the video on YouTube.
 
 ---
 
