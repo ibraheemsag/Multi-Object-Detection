@@ -33,8 +33,7 @@ cd yolo
 conda env create -f environment.yaml
 conda activate street
 
-# Or using pip
-# pip install -r requirements.txt
+
 ```
 
 ### Dataset Preparation
@@ -93,7 +92,7 @@ The main functionality for model training, evaluation, and video creation is ava
 
 ### Training Performance
 
-![Training Results](results.png)
+![Training Results](./assets/results.png)
 
 The graphs above show the training progress of the YOLOv8n model on the MOT20 dataset over 100 epochs. The results demonstrate a strong convergence:
 
