@@ -1,0 +1,6 @@
+ignore
+yolov8n.pt
+notebooks/runs/*
+output/*
+data/MOT17
+data/MOT20
